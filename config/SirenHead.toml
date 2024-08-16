@@ -13,7 +13,7 @@
 	#Maximum time in ticks siren head will stalk the player
 	"Max stalking time" = 10000.0
 	#Minimum delay in ticks between siren head spawn events
-	"Min spawn delay" = 30000.0
+	"Min spawn delay" = 40000.0
 	#Maximum delay in ticks between siren head spawn events
-	"Max spawn delay" = 45000.0
+	"Max spawn delay" = 60000.0
 
