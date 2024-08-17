@@ -3,7 +3,6 @@
 /journeymap/data
 /options.txt
 /simplebackups
-/minecraftinstance.json
 /journeymap/journeymap.log
 /rhino.local.properties
 /usercache.json
@@ -12,3 +11,4 @@
 /servers.dat
 /servers.dat_old
 /local
+/ds_private_storage.json
