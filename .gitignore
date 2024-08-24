@@ -15,7 +15,6 @@
 /modernfix
 /ESM
 /journeymap
-/config
 /shaderpacks
 /.mixin.out
 /blueprints
@@ -23,3 +22,4 @@
 /observable_announce
 /keys.txt
 /minecraftinstance.json
+/crash-reports
