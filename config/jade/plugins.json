@@ -89,6 +89,9 @@
     "crude_furnace": true,
     "advanced_brewery": true
   },
+  "hammerlib": {
+    "root": true
+  },
   "mekanism": {
     "infuse_type": true,
     "gas": true,
@@ -146,6 +149,10 @@
   },
   "tombstone": {
     "graves": true
+  },
+  "endercrop": {
+    "endercrop": true,
+    "endstone": true
   },
   "pneumaticcraft": {
     "pneumatic": true,
