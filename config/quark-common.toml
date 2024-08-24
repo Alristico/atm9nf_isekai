@@ -160,7 +160,7 @@
 	"Compasses Work Everywhere" = true
 	"Coral On Cactus" = true
 	"Diamond Repair" = true
-	"Double Door Opening" = false
+	"Double Door Opening" = true
 	"Dragon Scales" = true
 	"Dyeable Item Frames" = true
 	Emotes = true
@@ -263,8 +263,8 @@
 		"Enable Jei Hints" = true
 
 	[tweaks.double_door_opening]
-		"Enable Doors" = false
-		"Enable Fence Gates" = false
+		"Enable Doors" = true
+		"Enable Fence Gates" = true
 		#This feature disables itself if any of the following mods are loaded:
 		# - utilitix
 		#This is done to prevent content overlap.
@@ -1189,8 +1189,8 @@
 
 	[building.leaf_carpet]
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodworks
 		# - immersive_weathering
+		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -1229,8 +1229,8 @@
 		#Allowed values: [0,1]
 		"Fall Damage Multiplier" = 0.5
 		#This feature disables itself if any of the following mods are loaded:
-		# - goated
 		# - environmental
+		# - goated
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -1238,8 +1238,8 @@
 	[building.variant_bookshelves]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodworks
 		# - woodster
+		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -1258,8 +1258,8 @@
 	[building.variant_ladders]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodworks
 		# - woodster
+		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
